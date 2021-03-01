@@ -1,0 +1,10 @@
+Scripts/
+Lib/
+Include/
+.vscode/
+__pycache__
+*.cfg
+settings.py
+*.pickle
+credentials.json
+pip-selfcheck.json
